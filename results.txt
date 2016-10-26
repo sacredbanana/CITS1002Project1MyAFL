@@ -1,0 +1,59 @@
+Hornets 8 15 Falcons 11 13
+Leopards 14 14 Bison 14 12
+Woodpeckers 8 12 Alligators 15 14
+Hawks 9 14 Seals 7 8
+
+Leopards 14 10 Hornets 16 9
+Woodpeckers 6 10 Falcons 11 17
+Hawks 20 18 Bison 18 16
+Alligators 26 22 Seals 12 17
+
+Woodpeckers 9 9 Leopards 10 8
+Hawks 20 17 Hornets 17 15
+Alligators 13 14 Falcons 32 35
+Bison 17 24 Seals 5 8
+
+Hawks 13 16 Woodpeckers 13 14
+Alligators 4 8 Leopards 15 17
+Bison 16 16 Hornets 6 10
+Falcons 15 18 Seals 10 14
+
+Alligators 9 10 Hawks 14 19
+Bison 6 9 Woodpeckers 18 12
+Falcons 5 9 Leopards 7 10
+Hornets 7 13 Seals 10 14
+
+Bison 21 12 Alligators 12 15
+Falcons 33 9 Hawks 17 20
+Hornets 6 12 Woodpeckers 12 10
+Leopards 6 12 Seals 10 9
+
+Falcons 15 14 Bison 22 20
+Hornets 9 15 Alligators 5 8
+Leopards 23 10 Hawks 11 10
+Woodpeckers 6 10 Seals 4 9
+
+Hornets 18 14 Falcons 26 9
+Leopards 28 15 Bison 6 11
+Woodpeckers 19 20 Alligators 10 16
+Hawks 15 12 Seals 10 11
+
+Leopards 20 12 Hornets 16 22
+Woodpeckers 7 14 Falcons 29 18
+Hawks 9 15 Bison 11 10
+Alligators 16 16 Seals 10 16
+
+Woodpeckers 15 8 Leopards 28 8
+Hawks 15 22 Hornets 12 10
+Alligators 11 14 Falcons 13 16
+Bison 23 16 Seals 4 10
+
+Hawks 15 15 Woodpeckers 4 11
+Alligators 16 18 Leopards 4 10
+Bison 22 11 Hornets 5 8
+Falcons 28 27 Seals 11 17
+
+Alligators 10 8 Hawks 8 13
+Bison 5 10 Woodpeckers 19 24
+Falcons 15 19 Leopards 18 19
+Hornets 14 15 Seals 9 11
